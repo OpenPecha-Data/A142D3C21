@@ -1,0 +1,15 @@
+id: A142D3C21
+title: 'MSV 1,08: Kaṭhinavastu'
+type: translation
+pechas:
+- IFAE962DD
+- I5FC3178F
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:07:45.244909
+  last_modified_at: 2023-02-09 15:07:45.244924
+alignment_to_base:
+  IFAE962DD/FEEF: B8D7
+  I5FC3178F/9DC4: B8D7
